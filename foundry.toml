@@ -1,6 +1,6 @@
 [profile.default]
-src = "src"
-out = "out"
+src = "contracts/src"
+out = "contracts/out"
 libs = ["lib", "dependencies"]
 
 auto_detect_remappings = false
